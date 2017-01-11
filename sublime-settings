@@ -1,0 +1,26 @@
+{
+  "always_show_minimap_viewport": false,
+  "color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+    ".git",
+    "node_modules",
+    "node",
+    "dist",
+    "bootstrap",
+    "reports",
+    "target"
+  ],
+  "font_size": 11,
+  "hide_minimap": true,
+  "ignored_packages":
+  [
+    "Oceanic Color Scheme",
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "theme": "Oceanic Next.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
